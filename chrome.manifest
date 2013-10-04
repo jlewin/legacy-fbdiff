@@ -1,0 +1,2 @@
+content firebugdiff chrome/content/firebugdiff/ xpcnativewrappers=no contentaccessible=yes
+overlay chrome://firebug/content/firebugOverlay.xul         chrome://firebugdiff/content/FBDiffOverlay.xul

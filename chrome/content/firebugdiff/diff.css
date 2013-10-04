@@ -1,0 +1,34 @@
+﻿body
+{
+	font-family: sans,tahoma,arial,helvetica,;
+	font-size: 3mm;
+	font-size-adjust: none;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	line-height: normal;
+	padding: 0px 14px 14px 14px
+}
+div.diff 
+{
+	white-space: pre ;
+}
+
+h1 
+{
+	margin: 0px 0px 8px -5px;
+	padding: 2px;
+	background: #eee;
+}
+
+ins 
+{
+	background: #75CDEF;
+	padding-left: 3px;
+	text-decoration: none;
+}
+
+del
+{
+	background: #FF7070;
+}
